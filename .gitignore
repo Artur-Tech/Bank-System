@@ -1,0 +1,60 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+bin/
+node_modules/
+build/
+dist/
+tmp/
+log/
+logs/
+__pycache__/
+*.egg-info/
+.env
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*~
+*.log
+*.cache
+*.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.classpath
+*.project
+
+# Build and Dependency files
+target/
+.gradle/
+.mvn/
+build/
+out/
+.cache/
+.pycache/
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
